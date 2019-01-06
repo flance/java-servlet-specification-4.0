@@ -1,7 +1,7 @@
 # Java Servlet Specification 4.0
 ## 中文翻译《Java Servlet 规范-4.0》（翻译中...）
 1. [概述](./1.概述.md)
-2. [Servlet接口](./2.Servlet接口.md)
+2. [Servlet接口](./2.Servlet接口/)
 3. [请求](./3.请求.md)
 4. [Servlet上下文](./4.Servlet上下文.md)
 5. [响应](./5.响应.md)
