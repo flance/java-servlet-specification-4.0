@@ -3,7 +3,7 @@
 1. [概述](./1.概述.md)
 2. [Servlet接口](./2.Servlet接口/)
 3. [请求](./3.Request/)
-4. [Servlet上下文](./4.Servlet上下文.md)
+4. [Servlet上下文](./4.Servlet上下文/)
 5. [响应](./5.响应.md)
 6. [过滤器](./6.过滤器.md)
 7. [Session](./7.Session.md)
